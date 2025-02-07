@@ -26,7 +26,6 @@ ml_models/
 │   ├── data_preparation.py
 │   ├── model_training.py
 │   ├── predict.py
-│   └── README.md
 ├── [future_project_1]/
 ├── [future_project_2]/
 └── README.md
